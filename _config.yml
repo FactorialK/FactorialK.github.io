@@ -1,29 +1,22 @@
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
 # Dependencies
 markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Kai-Chech Jay Weng
+title:            Kai-Chech (Jay) Weng
 tagline:          ''
 description:      'National Central University'
 url:              FactorialK.github.io
 baseurl:          '/'
-                  # the optional subpath of your site, e.g. "/blog"
-                  # NB: This applies to all pages in your Jekyll site.
-                  # If you want to move just the blog index pages but keep
-                  # other pages at root, see the paginate_path and
-                  # sidebar_blog_link below.
 
-# author:           
-#   name:           'Ivan De Oliveira Nunes'
-#   url:            ivanolive.github.io
+
 
 paginate:         2
-paginate_path:    '/page:num'
-                    # Or '/blog/page:num' if you want to move your index pages
+paginate_path:    'page:num'
 
-# plugins:
+plugins:
+  - jekyll-include-cache
 #   - jekyll-feed
 #   - jekyll-gist
 #   - jekyll-paginate
