@@ -16,7 +16,6 @@ paginate:         2
 paginate_path:    'page:num'
 
 plugins:
-  - jekyll-include-cache
   - jekyll-theme-minimal
 #   - jekyll-feed
 #   - jekyll-gist
