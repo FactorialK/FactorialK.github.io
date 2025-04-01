@@ -1,7 +1,9 @@
 ---
-layout: page
-title: Home
+layout: default
+title: "Home"
+permalink: /
 ---
+
 
 # Profile
 

@@ -1,32 +1,30 @@
-theme: jekyll-theme-minimal
 # theme: minimal-mistakes-jekyll
+theme: jekyll-theme-cayman
+# remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+
+
 # Dependencies
-markdown:         kramdown
-highlighter:      rouge
+markdown: kramdown
+highlighter: rouge
 
 # Setup
-title:            Kai-Chieh (Jay) Weng
-tagline:          ''
-description:      'National Central University'
-url:              FactorialK.github.io
-baseurl:          '/'
-
-
-
-paginate:         2
-paginate_path:    'page:num'
+title: Kai-Chieh (Jay) Weng
+description: National Central University
+url: https://FactorialK.github.io
+baseurl: "/"
 
 plugins:
   - jekyll-include-cache
+  - jekyll-paginate
 
-#   - jekyll-feed
-#   - jekyll-gist
-#   - jekyll-paginate
+paginate: 5
+paginate_path: "/page:num"
+
+
+# Navigation links
+header_pages:
+  - index.md
+  - research.md
 
 # Sidebar link settings
-sidebar_home_link:  true
-#sidebar_blog_link:  '/'   # By default, your home page is your blog
-                                # page. If you change your paginate_path,
-                                # set this to the root of the paginate_path
-                                # to enable a separate blog link.
-remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+sidebar_home_link: true

@@ -1,9 +1,9 @@
 ---
-layout: page
-title: Research
-sidebar_link: true
-sidebar_sort_order: 1
+layout: default
+title: "Research"
+permalink: /research/
 ---
+
 # Research
 
 
