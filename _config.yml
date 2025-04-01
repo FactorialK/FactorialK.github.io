@@ -1,30 +1,26 @@
-# theme: minimal-mistakes-jekyll
-theme: jekyll-theme-minimal
-# remote_theme: "mmistakes/minimal-mistakes@4.26.2"
-
-
 # Dependencies
-markdown: kramdown
-highlighter: rouge
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
 
 # Setup
-title: Kai-Chieh (Jay) Weng
-description: National Central University
-url: https://FactorialK.github.io
-baseurl: "/"
+title:            Hyde
+tagline:          'A Jekyll theme'
+description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:              http://hyde.getpoole.com
+baseurl:          /
 
-plugins:
-  - jekyll-include-cache
-  - jekyll-paginate
+author:
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
 
-paginate: 5
-paginate_path: "/page:num"
+paginate:         5
 
+# Custom vars
+version:          2.1.0
 
-# Navigation links
-header_pages:
-  - index.md
-  - research.md
-
-# Sidebar link settings
-sidebar_home_link: true
+github:
+  repo:           https://github.com/poole/hyde
