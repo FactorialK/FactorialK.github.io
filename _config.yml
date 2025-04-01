@@ -7,15 +7,15 @@ permalink:        /:categories/:title/
 relative_permalinks: false
 
 # Setup
-title:            Hyde
+title:            Kai-Chieh (Jay) Weng
 tagline:          'A Jekyll theme'
 description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+url:              http://factorialk.github.io
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Kai Jay Wong'
+  # url:            https://twitter.com/mdo
 
 paginate:         5
 plugins:
@@ -25,5 +25,5 @@ plugins:
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/FactorialK
 
