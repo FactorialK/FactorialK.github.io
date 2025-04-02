@@ -11,7 +11,7 @@ title:            Kai-Chieh (Jay) Weng
 # tagline:          'A Jekyll theme'
 description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme'
 url:              http://factorialk.github.io
-baseurl:          /
+baseurl:          ""
 
 author:
   name:           'Kai Jay Wong'
