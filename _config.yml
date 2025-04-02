@@ -10,7 +10,7 @@ relative_permalinks: false
 title:            Kai-Chieh (Jay) Weng
 # tagline:          'A Jekyll theme'
 # description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme'
-url:              https://factorialk.github.io
+url:              https://factorialk.github.io/
 baseurl:          "/"
 
 author:
