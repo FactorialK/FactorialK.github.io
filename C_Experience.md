@@ -9,13 +9,13 @@ title : Experience
 
 ## Research Experience
 - 2024 FEB. - CURRENT | **Industrial Technology Research Institute (IRTI), TWN**
-    * Part-time Assistant, Transparent Proxy in 5G Communication
+    * PT Assistant, Transparent Proxy in 5G Communication
 
 - 2020 Jul. – 2022 Sep. | **National Central Universit, TWN**
     * Research Assistant, Insitute of Cognitive Neuroscience 
 - 2021 Jul. – 2022 Feb. | **National Science Council Research, TWN**  
     * Topic: Using the Simon and SNARC Effect to Examine Shared Spatial Representations in Human-Computer Collaboration
-    * Advisor: **Dr. Denise Wu**
+    * Advisor: [**Dr. Denise Wu**](https://scholar.google.com/citations?user=ijetdmkAAAAJ&hl=en)
 
 
 
