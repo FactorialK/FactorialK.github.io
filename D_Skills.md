@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Skills and Language
+title: Skills and Languages
 ---
 
 ## Computer Skills
