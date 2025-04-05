@@ -9,7 +9,7 @@ title : Experience
 
 ## Research Experience
 - 2024 FEB. - CURRENT | **Industrial Technology Research Institute (IRTI), TWN**
-    * Intership Assistant, Transparent Proxy in 5G Communication
+    * Part-time Assistant, Transparent Proxy in 5G Communication
 
 - 2020 Jul. – 2022 Sep. | **National Central Universit, TWN**
     * Research Assistant, Insitute of Cognitive Neuroscience 
