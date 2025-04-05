@@ -312,8 +312,6 @@ tbody tr:nth-child(odd) th {
 }
 .masthead-title a {
   color: #505050;
-  font-size: 1.8rem; /* 或用 px：24px */
-  font-weight: bold;
 }
 .masthead-title small {
   font-size: 75%;
@@ -340,6 +338,8 @@ tbody tr:nth-child(odd) th {
 .post-title,
 .post-title a {
   color: #303030;
+  font-size: 1.8rem; /* 或用 px：24px */
+  font-weight: bold;
 }
 .page-title,
 .post-title {
