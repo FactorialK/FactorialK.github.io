@@ -338,8 +338,6 @@ tbody tr:nth-child(odd) th {
 .post-title,
 .post-title a {
   color: #303030;
-  font-size: 1.8rem; /* 或用 px：24px */
-  font-weight: bold;
 }
 .page-title,
 .post-title {
