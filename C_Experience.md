@@ -24,10 +24,9 @@ title : Experience
 
 ## Teaching Experience
 #### 2023 Spring	| **National Central University, TWN**
-* Position: Teaching Assistant
+* Position: Teaching Assistant of Principle of Programming Language
 * Affiliated Institution: Computer Science & Information Engineering
-* Principle of Programming Language, an undergraduate course averaging 150 students per semester.
-* Developed quizzes, exams, and homework
+* Description: An undergraduate course averaging 150 students per semester. Developed exams, and homework
 
 #### 2022 Sep - CURRENT | **Freelance Private Tutor, TWN**
 * Position: One-on-One High School Tutor  

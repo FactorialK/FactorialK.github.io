@@ -30,7 +30,8 @@ title: Academic Background
 * Attempting to modify the task priority to affect the scheduling. 
   
 #### *2023 Spring* :	UML Editor in Object-Oriented Design
- * Implementing a UML Editor in a structure of Object-Oriented. 
+* Implementing a UML Editor in a structure of Object-Oriented. 
 *  Understanding deeper about Inheritance and Polymorphism
+
 #### *2022 Spring*	: Developing a Card gameplay in x64-Assembly
 * Implementing a card gambling game by assembly code.
