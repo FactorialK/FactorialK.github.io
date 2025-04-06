@@ -8,8 +8,8 @@ relative_permalinks: false
 
 # Setup
 title:            Kai-Chieh (Jay) Weng
-# tagline:          'A Jekyll theme'
 # description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme'
+description:      'National Central University <a href="https://factorialk.github.io/public/CV_KaiChiehWeng.pdf" target="_blank"> CV</a> '
 url:              https://factorialk.github.io/
 baseurl:          "/"
 
