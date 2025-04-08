@@ -20,6 +20,8 @@ title: Academic Background
 
 In this work, we focus on clock offset, the fundamental source of clock skew, and introduce a novel phenomenon called **response offset**, which arises during bus-off attacks. Leveraging this discovery, we developed a software development kit (SDK) and a Saleae extension to facilitate real-time digital signal capture and analysis, achieving an average detection rate of 99.998\%. We anticipate further improvements as sampling rates continue to increase in future implementations. </pre> </details>
 
+**Keywords** : CAN protocol, Embedded Dev boards, Firmware , Protocol Security, SDK (Language C), Extension (Python) 
+
 ## Curriculum Projects
 #### *2024 Spring* : Developing Embedded OS on Raspberry PI
 * Device Booting : Implementing a bootloader to initial a simple shell. 
