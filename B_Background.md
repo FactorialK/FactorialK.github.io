@@ -18,7 +18,7 @@ title: Academic Background
 #### Topic : **Real-Time Detection of Attack Features in Automotive Protocols**
 <details> <summary> Abstract </summary> <pre>With the advancement of technology, security vulnerabilities in the Controller Area Network (CAN)—a protocol widely adopted in automotive systems for decades—have become increasingly prominent. While several techniques exist to fingerprint Electronic Control Units (ECUs) based on physical-layer characteristics, clock skew remains one of the most widely used for intrusion detection. 
 
-In this work, we focus on clock offset, the fundamental source of clock skew, and introduce a novel phenomenon called **response offset**, which arises during bus-off attacks. Leveraging this discovery, we developed a software development kit (SDK) and a Saleae extension to facilitate real-time digital signal capture and analysis, achieving an average detection rate of 92.974\%. We anticipate further improvements as sampling rates continue to increase in future implementations. </pre> </details>
+In this work, we focus on clock offset, the fundamental source of clock skew, and introduce a novel phenomenon called **response offset**, which arises during bus-off attacks. Leveraging this discovery, we developed a software development kit (SDK) and a Saleae extension to facilitate real-time digital signal capture and analysis, achieving an average detection rate of 99.884\%. We anticipate further improvements as sampling rates continue to increase in future implementations. </pre> </details>
 
 **Keywords** : CAN protocol, Embedded Dev boards, Firmware , Protocol Security, SDK (Language C), Extension (Python) 
 
