@@ -12,5 +12,5 @@ title: Skills and Languages
 
 ## Languages
 - Mandarin(Traditional Chinese)	| Native language
-- English	| Intermediate Listener, Speaking and Writing Advanced Reading
+- English	| Advanced Listener, Speaking, Reading and Writing
 - German	| Novice Listener, Speaking, Reading and Writing 
